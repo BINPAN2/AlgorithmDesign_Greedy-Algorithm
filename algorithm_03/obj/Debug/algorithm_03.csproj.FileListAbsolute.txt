@@ -1,0 +1,6 @@
+D:\VS Projects\algorithm_03\algorithm_03\bin\Debug\algorithm_03.exe
+D:\VS Projects\algorithm_03\algorithm_03\bin\Debug\algorithm_03.pdb
+D:\VS Projects\algorithm_03\algorithm_03\obj\Debug\algorithm_03.csprojResolveAssemblyReference.cache
+D:\VS Projects\algorithm_03\algorithm_03\obj\Debug\algorithm_03.csproj.CoreCompileInputs.cache
+D:\VS Projects\algorithm_03\algorithm_03\obj\Debug\algorithm_03.exe
+D:\VS Projects\algorithm_03\algorithm_03\obj\Debug\algorithm_03.pdb
